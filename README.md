@@ -1,6 +1,6 @@
 # Simon Says on Arduino
 
-A memory game built with an Arduino, 4 LEDs, and 4 buttons.
+A memory game built with an Arduino, 5 LEDs, and 5 buttons.
 The game lights up a random sequence, and you repeat it back.
 Each round adds one more light. One wrong press ends the game.
 
@@ -16,5 +16,5 @@ https://youtu.be/_M91OWmMH4Y?si=_t5E7qg9KybpvysD
 
 ## Parts
 - Arduino Uno
-- 4 LEDs and resistors
+- 5 LEDs and resistors
 - 5 buttons
