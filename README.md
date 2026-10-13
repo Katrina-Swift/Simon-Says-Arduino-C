@@ -6,7 +6,8 @@ Each round adds one more light. One wrong press ends the game.
 
 ## Demo
 
-[Watch the video]((https://youtu.be/_M91OWmMH4Y?si=_t5E7qg9KybpvysD )
+[Watch the video]
+https://youtu.be/_M91OWmMH4Y?si=_t5E7qg9KybpvysD  
 
 ## How it works
 - Press the start button to begin
